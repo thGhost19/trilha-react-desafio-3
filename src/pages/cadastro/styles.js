@@ -61,22 +61,21 @@ export const SubtitleLogin = styled.p`
 `
 
 
-export const EsqueciText  = styled.p`
+export const Text  = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 19px;
 
-    color: #E5E044;
+    color: #FFFFFF;
 ` 
 
-export const CriarText =  styled.p`
+export const LoginText =  styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
 
-    color: #23DD7A;
+    color: #FFFFFFF;
 `
